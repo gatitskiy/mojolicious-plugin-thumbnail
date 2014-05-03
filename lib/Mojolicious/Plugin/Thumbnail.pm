@@ -98,6 +98,8 @@ L<Mojolicious::Plugin::Thumbnail> is a simple plugin for fast creating thumbnail
 L<Mojolicious::Plugin::Thumbnail> inherits all methods from
 L<Mojolicious::Plugin> and implements the following new ones.
 
+=head1 thumbnail
+
 Supported parameters:
  
 =over 4
